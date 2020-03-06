@@ -184,12 +184,10 @@ collections:
   portfolio:
     output: true
     permalink: /:collection/:path/
-  talks:
+  talks222:
     output: true
     permalink: /:collection/:path/
-  talk2s:
-    output: true
-    permalink: /:collection/:path/
+ 
 
 
 # Defaults

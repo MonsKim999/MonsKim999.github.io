@@ -4,6 +4,6 @@ title: "Contact"
 permalink: /contact/
 author_profile: true
 ---
-Computer Science Department, Stanford University<br>
-Gates 158, 353 Serra Mall, Stanford, CA 94305<br>
-Email: lantaoyu [at] cs.stanford.edu
+Brain Engineering Department, Korea University<br>
+Korea University, 145, Anam-ro, Seongbuk-gu, Seoul, 02841, Korea<br>
+Email: jj_kim [at] korea.ac.kr

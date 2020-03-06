@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 <p align="center">
-  <img src="https://lantaoyu.github.io/files/brain1.gif?raw=true" alt="Photo";"/> 
+  <img src="https://MonsKim999.github.io/files/brain1.gif?raw=true" alt="Photo";"/> 
 </p>
 
 # About Me

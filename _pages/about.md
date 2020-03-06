@@ -1,24 +1,16 @@
 ---
 permalink: /
-title: "Jung-Jun Personal Websites"
-excerpt: "About me"
+title: "Welcome to my website!"
+excerpt: "Welcome"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+ 
 
-About Me
-======
-Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
-
-Getting started
-======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+I am an Assistant Professor at the <a href="https://www.uni-heidelberg.de/politikwissenschaften/" target="_blank" rel="noopener noreferrer">Institute of Political Science</a> at Heidelberg University. Before, I have been Postdoctoral Researcher and Lecturer at the <a href="http://www.goethe-university-frankfurt.de/43358707/fb03" target="_blank" rel="noopener noreferrer">Faculty of Social Sciences</a> at Goethe University Frankfurt and an <a href="http://www.snf.ch/en/funding/careers/early-postdoc-mobility/Pages/default.aspx" target="_blank" rel="noopener noreferrer">SNSF Early Postdoc.Mobility Fellow</a> at the <a href="http://aissr.uva.nl/" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>. I have earned a PhD in Political Science from the <a href="http://www.ipw.unibe.ch/content/index_eng.html" target="_blank" rel="noopener noreferrer">University of Bern</a> (Switzerland) and a BA and MA degree in Politics and Public Administration from the <a href="http://www.polver.uni-konstanz.de/en/department-home/" target="_blank" rel="noopener noreferrer">University of Konstanz</a> (Germany).  
+My research interests include political psychology, political sociology and comparative politics. My work has appeared in <a href="https://journals.sagepub.com/home/nms" target="_blank" rel="noopener noreferrer">New Media & Society</a>, <a href="http://link.springer.com/journal/11109" target="_blank" rel="noopener noreferrer">Political Behavior</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9221" target="_blank" rel="noopener noreferrer">Political Psychology</a>, <a href="https://www.tandfonline.com/toc/fwep20/current" target="_blank" rel="noopener noreferrer">West European Politics</a>, <a href="http://journals.cambridge.org/action/displayJournal?jid=EPR" target="_blank" rel="noopener noreferrer">European Political Science Review</a>, <a href="https://journals.sagepub.com/home/nvs" target="_blank" rel="noopener noreferrer"> Nonprofit and Voluntary Sector Quarterly</a>, <a href="http://www.palgrave-journals.com/cep/index.html" target="_blank" rel="noopener noreferrer">Comparative European Politics</a>, <a href="https://www.tandfonline.com/toc/reus20/current" target="_blank" rel="noopener noreferrer">European Societies</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1662-6370" target="_blank" rel="noopener noreferrer">Swiss Political Science Review</a> and <a href="http://www.pvs.nomos.de/" target="_blank" rel="noopener noreferrer">Politische Vierteljahresschrift</a>.  
+I serve as spokesperson of the Working Group "Elections and Political Attitudes" of the <a href="https://www.dvpw.de/en/gliederung/ak/wahlen-und-politische-einstellungen/">German Political Science Association</a>.
+<p style="text-align: justify;">On this website, you will find further information on my research and teaching. Thank you for your interest and please feel free to <a href="https://kathrinackermann.github.io/contact/" target="_blank" rel="noopener noreferrer">contact</a> me.

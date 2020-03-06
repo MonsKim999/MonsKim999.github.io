@@ -8,9 +8,11 @@ redirect_from:
   - /about.html
 ---
 
+
 <p align="center">
-  <img src="https://MonsKim999.github.io/files/brain1.gif?raw=true" alt="Photo";"/> 
+  <img src="https://MonsKim999.github.io/images/profile1.jpg?raw=true" alt="Photo" style="width: 1200px;height: 1600px"/> 
 </p>
+
 
 # About Me
 * I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]

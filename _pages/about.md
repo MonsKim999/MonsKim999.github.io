@@ -15,9 +15,10 @@ redirect_from:
 
 
 # About Me
-* I am a M.S. student in the [Brain Engineering Department](https://brain.korea.ac.kr//) at [Korea University](https://www.korea.ac.kr/), advised by Prof. [Seong-Whan Lee](https://brain.korea.ac.kr/ko/people/professor.php?option=&keyword=&category=&id=57&page=1&mode=read). [[Curriculum Vitae](http://pr.korea.ac.kr/sub2_1.php?code=LSW)] [[Google Scholar](https://https://scholar.google.com/citations?hl=en&user=5yNbjSoAAAAJ&view_op=list_works)]
+* I am a M.S. student in the [Brain Engineering Department](https://brain.korea.ac.kr//) at [Korea University](https://www.korea.ac.kr/), advised by Prof. [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW). [[Curriculum Vitae](http://MonsKim999.com/files/CV__Jung_Jun_Kim.pdf)] [[Google Scholar](https://scholar.google.co.kr/)]
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
-* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+
+* I received my Bachelor’s Degree in [Incheon National University](http://inu.ac.kr/). My undergraduate research advisors is Prof. [Kwang-Il Hwang](http://https://sites.google.com/site/brightdayian/)
 
 # Recent News
 * September 3, 2019. One paper accepted to NeurIPS 2019.

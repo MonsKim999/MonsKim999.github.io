@@ -1,16 +1,34 @@
 ---
 permalink: /
-title: "Welcome to my website!"
-excerpt: "Welcome"
+title: ""
+excerpt: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
- 
 
+<p align="center">
+  <img src="https://lantaoyu.github.io/files/brain1.gif?raw=true" alt="Photo";"/> 
+</p>
 
-I am an Assistant Professor at the <a href="https://www.uni-heidelberg.de/politikwissenschaften/" target="_blank" rel="noopener noreferrer">Institute of Political Science</a> at Heidelberg University. Before, I have been Postdoctoral Researcher and Lecturer at the <a href="http://www.goethe-university-frankfurt.de/43358707/fb03" target="_blank" rel="noopener noreferrer">Faculty of Social Sciences</a> at Goethe University Frankfurt and an <a href="http://www.snf.ch/en/funding/careers/early-postdoc-mobility/Pages/default.aspx" target="_blank" rel="noopener noreferrer">SNSF Early Postdoc.Mobility Fellow</a> at the <a href="http://aissr.uva.nl/" target="_blank" rel="noopener noreferrer">University of Amsterdam</a>. I have earned a PhD in Political Science from the <a href="http://www.ipw.unibe.ch/content/index_eng.html" target="_blank" rel="noopener noreferrer">University of Bern</a> (Switzerland) and a BA and MA degree in Politics and Public Administration from the <a href="http://www.polver.uni-konstanz.de/en/department-home/" target="_blank" rel="noopener noreferrer">University of Konstanz</a> (Germany).  
-My research interests include political psychology, political sociology and comparative politics. My work has appeared in <a href="https://journals.sagepub.com/home/nms" target="_blank" rel="noopener noreferrer">New Media & Society</a>, <a href="http://link.springer.com/journal/11109" target="_blank" rel="noopener noreferrer">Political Behavior</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1467-9221" target="_blank" rel="noopener noreferrer">Political Psychology</a>, <a href="https://www.tandfonline.com/toc/fwep20/current" target="_blank" rel="noopener noreferrer">West European Politics</a>, <a href="http://journals.cambridge.org/action/displayJournal?jid=EPR" target="_blank" rel="noopener noreferrer">European Political Science Review</a>, <a href="https://journals.sagepub.com/home/nvs" target="_blank" rel="noopener noreferrer"> Nonprofit and Voluntary Sector Quarterly</a>, <a href="http://www.palgrave-journals.com/cep/index.html" target="_blank" rel="noopener noreferrer">Comparative European Politics</a>, <a href="https://www.tandfonline.com/toc/reus20/current" target="_blank" rel="noopener noreferrer">European Societies</a>, <a href="http://onlinelibrary.wiley.com/journal/10.1002/(ISSN)1662-6370" target="_blank" rel="noopener noreferrer">Swiss Political Science Review</a> and <a href="http://www.pvs.nomos.de/" target="_blank" rel="noopener noreferrer">Politische Vierteljahresschrift</a>.  
-I serve as spokesperson of the Working Group "Elections and Political Attitudes" of the <a href="https://www.dvpw.de/en/gliederung/ak/wahlen-und-politische-einstellungen/">German Political Science Association</a>.
-<p style="text-align: justify;">On this website, you will find further information on my research and teaching. Thank you for your interest and please feel free to <a href="https://kathrinackermann.github.io/contact/" target="_blank" rel="noopener noreferrer">contact</a> me.
+# About Me
+* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
+* My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
+* I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
+
+# Recent News
+* September 3, 2019. One paper accepted to NeurIPS 2019.
+* April 21, 2019. Three papers accepted to ICML 2019.
+* November 3, 2018. One paper accepted to AAAI 2019.
+* August 9, 2017. I won the [Best Paper Award Honorable Mention](https://lantaoyu.github.io/files/sigir17-award.jpg) at [SIGIR 2017](http://sigir.org/sigir2017/program/awards/).
+* August 6 - August 12, 2017. I attended the 40th International ACM SIGIR Conference on Research and Development in Information Retrieval held in Tokyo, Japan.
+* July 26, 2017. I gave an [online talk](https://zhuanlan.zhihu.com/p/28151434) on ["Generative Adversarial Networks for Discrete Data"](http://lantaoyu.com/files/2017-07-26-gan-for-discrete-data.pdf) at [PaperWeekly](https://zhuanlan.zhihu.com/paperweekly).
+* May 19, 2017. A paper titled "A Dynamic Attention Deep Model for Article Recommendation by Learning Human Editors’ Demonstration" was accepted to [KDD 2017](http://www.kdd.org/kdd2017/).
+* April 19, 2017. I gave a [talk](http://lantaoyu.com/files/2017-04-19-gans-for-ir.pdf) on applying adversarial training techniques for information retrieval at Apex Lab, Shanghai Jiao Tong University.
+* April 11, 2017. A paper titled "IRGAN: A Minimax Game for Unifying Generative and Discriminative Information Retrieval Models" was accepted to [SIGIR 2017](http://sigir.org/sigir2017/).
+* February 4 - February 9, 2017. I attended the Thirty-First AAAI Conference on Artificial Intelligence held in San Francisco, California, US and gave a [talk](http://lantaoyu.com/files/2017-02-07-aaai-seqgan.pdf) on applying adversarial training for generating sequential data.
+* November 11, 2016. A paper titled "SeqGAN: Sequence Generative Adversarial Nets with Policy Gradient" was accepted to [AAAI 2017](http://www.aaai.org/Conferences/AAAI/aaai17.php).
+
+# Academic Services
+* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020.

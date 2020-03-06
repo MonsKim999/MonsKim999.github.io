@@ -15,7 +15,7 @@ redirect_from:
 
 
 # About Me
-* I am a Ph.D. student in the [Computer Science Department](https://cs.stanford.edu/) at [Stanford University](https://www.stanford.edu/), advised by Prof. [Stefano Ermon](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://lantaoyu.com/files/lantaoyu_cv.pdf)] [[Google Scholar](https://scholar.google.com/citations?user=Ixg9n-EAAAAJ&hl=en)]
+* I am a M.S. student in the [Brain Engineering Department](https://http://brain.korea.ac.kr//) at [Korea University](https://www.korea.ac.kr/), advised by Prof. [Seong-Whan Lee](https://cs.stanford.edu/~ermon/). [[Curriculum Vitae](http://pr.korea.ac.kr/sub2_1.php?code=LSW)] [[Google Scholar](https://https://scholar.google.com/citations?hl=en&user=5yNbjSoAAAAJ&view_op=list_works)]
 * My research interests lie in the general area of machine learning, particularly in deep learning, reinforcement learning and probabilistic graphical models, as well as their applications in sequential decision making, generative modeling, multi-task and meta-learning and multi-agent systems.
 * I received my Bachelor’s Degree in [Shanghai Jiao Tong University](http://en.sjtu.edu.cn/). My undergraduate research advisors are Prof. [Yong Yu](http://apex.sjtu.edu.cn/members/yyu), Prof. [Weinan Zhang](http://wnzhang.net/) and Prof. [Jun Wang](http://www0.cs.ucl.ac.uk/staff/jun.wang/).
 

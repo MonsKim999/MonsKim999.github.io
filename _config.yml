@@ -188,8 +188,8 @@ collections:
     output: true
     permalink: /:collection/:path/
   talk2s:
-  output: true
-  permalink: /:collection/:path/
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults

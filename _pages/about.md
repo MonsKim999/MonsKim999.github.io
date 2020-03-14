@@ -20,8 +20,8 @@ redirect_from:
 * My research interests lie at the intersection of computer vision and natural language processing. My primary research for now is about vision&language modeling using deep learning.
 
 # Recent News
-//* April 31, 2020. One paper submitted to BMVC 2020.
+
 
 
 # Academic Services
-//* PC member / Reviewer: AAAI 2019, AAAI 2020, ICML 2020.
+

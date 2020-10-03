@@ -15,8 +15,8 @@ redirect_from:
 
 
 # About Me [[Curriculum Vitae](https://monskim999.github.io//files/CV__Jung_Jun_Kim.pdf)] [[Google Scholar](https://scholar.google.co.kr/)]
-* I am a M.S. student in the [Department of Brain and Cognitive Engineering](https://brain.korea.ac.kr//) at [Korea University](https://www.korea.ac.kr/), advised by Prof. [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW). 
-* I received my Bachelor’s Degree in [Incheon National University](http://inu.ac.kr/). My undergraduate research advisors is Prof. [Kwang-Il Hwang](https://sites.google.com/site/brightdayian/)
+* I am a M.S. student in the Department of Brain and Cognitive Engineering at Korea University , advised by Prof. [Seong-Whan Lee](http://pr.korea.ac.kr/sub2_1.php?code=LSW). 
+* I received my Bachelor’s Degree in Incheon National University. My undergraduate research advisors is Prof. [Kwang-Il Hwang](https://sites.google.com/site/brightdayian/)
 * My research interests lie at the intersection of computer vision and natural language processing. My primary research for now is about vision&language modeling using deep learning.
 
 # Recent News

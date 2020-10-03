@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "CV"
-    url: /files/CV__Jung_Jun_Kim.pdf
+  #- title: "CV"
+  #  url: /files/CV__Jung_Jun_Kim.pdf
 
   - title: "Publications"
     url: /publications/

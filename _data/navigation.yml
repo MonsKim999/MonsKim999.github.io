@@ -2,7 +2,8 @@
 main:
 #   - title: "CV"
 #    url: /files/CV__Jung_Jun_Kim.pdf
-
+  - title: "Post"
+    url: /post/
   - title: "Publications"
     url: /publications/
 

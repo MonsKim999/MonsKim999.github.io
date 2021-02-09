@@ -20,9 +20,9 @@ redirect_from:
 * My research interests lie at the intersection of computer vision and natural language processing. My primary research for now is about vision&language modeling using deep learning
 
 # Recent News
-* One paper is accepted by Neural Networks 2021
+* One paper is accepted by Neural Networks, 2021.
 * I joined Clova OCR team at Naver corporation for an internship, working with Dr. [Sungrae Park](https://scholar.google.co.kr/citations?user=bMxlLWQAAAAJ&hl=ko)
-* One paper is accepted by COLING 2020 (poster)
+* One paper is accepted by COLING 2020. (poster)
 
 
 # Academic Services

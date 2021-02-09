@@ -21,7 +21,7 @@ redirect_from:
 
 # Recent News
 * One paper is accepted by Neural Networks, 2021.
-* I joined Clova OCR team at Naver corporation for an internship, working with Dr. [Sungrae Park].(https://scholar.google.co.kr/citations?user=bMxlLWQAAAAJ&hl=ko)
+* I joined Clova OCR team at Naver corporation for an internship, working with Teakgyu Hong, [Sungrae Park](https://scholar.google.co.kr/citations?user=bMxlLWQAAAAJ&hl=ko).
 * One paper is accepted by COLING 2020. (poster)
 
 

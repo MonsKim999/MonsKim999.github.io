@@ -20,7 +20,7 @@ redirect_from:
 * My research interests lie at the intersection of computer vision and natural language processing. My primary research for now is about vision&language modeling using deep learning
 
 # Recent News
-* The 3rd place in the task: Infographics VQA in ICDAR 2021 competition on Document Visual Question Answering. **Jungjun Kim**, Teakgyu Hong, Hyungmin Lee, Junbum Cha, Sungrae Park. [[info]](https://rrc.cvc.uab.es/?ch=17&com=introduction) [[link]](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3)
+* The 3rd place in the task: Infographics VQA in ICDAR 2021 competition on Document Visual Question Answering. **Jungjun Kim**, Teakgyu Hong, Hyungmin Lee, Junbum Cha, Sungrae Park. [[about]](https://rrc.cvc.uab.es/?ch=17&com=introduction) [[link]](https://rrc.cvc.uab.es/?ch=17&com=evaluation&task=3)
 * One paper is accepted by Neural Networks, 2021. [[link]](https://monskim999.github.io//files/NN_paper.pdf)
 * I joined Clova OCR team at Naver corporation for an internship, working with Teakgyu Hong, [Sungrae Park](https://scholar.google.co.kr/citations?user=bMxlLWQAAAAJ&hl=ko).
 * One paper is accepted by COLING 2020. (poster) [[link]](https://www.aclweb.org/anthology/2020.coling-main.177.pdf)

@@ -28,3 +28,4 @@ redirect_from:
 
 # Academic Services
 * Reviewer for British Machine Vision Conference (BMVC) 2020
+* Reviewer for British Machine Vision Conference (BMVC) 2021
